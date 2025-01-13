@@ -5,8 +5,3 @@ variable="Hello World!"
 echo "$variable"
 
 jiaqi 
-none
-none
-none
-
-
